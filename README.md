@@ -1,1 +1,1 @@
-# CauculatorJS
+# CalculatorJS
